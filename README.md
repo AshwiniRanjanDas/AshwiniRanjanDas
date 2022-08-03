@@ -9,7 +9,7 @@
 -    Portfolio
 -    Linkedin_Clone.
 -    Food Online Order.
--    Contact me on my whatsapp:8877130837.
+-    Contact me .
 -    If there is any problem in coding then you can text me anytime.
 
 
